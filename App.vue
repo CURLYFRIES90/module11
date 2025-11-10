@@ -17,7 +17,6 @@ export default {
 </script>
 
 <style>
-<style>
 nav {
   padding: 10px;
   background: #f2f2f2;
@@ -29,8 +28,11 @@ nav a {
   color: black;
   font-weight: bold;
 }
+
+.router-link-active {
+  color: #42b983;
+}
 </style>
 
-</style>
 
 
