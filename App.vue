@@ -21,18 +21,10 @@ nav {
   padding: 10px;
   background: #f2f2f2;
 }
-
-nav a {
+router-link {
   margin: 0 10px;
   text-decoration: none;
-  color: black;
-  font-weight: bold;
-}
-
-.router-link-active {
-  color: #42b983;
 }
 </style>
-
 
 
